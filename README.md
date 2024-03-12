@@ -1,9 +1,9 @@
 # ES6 Eslint setup
 
-Have  you had that feeling where when you are busy tryng to beat the deadlines and you have to do a whole new project setup for the Javascript ES6 projects?
-It gets worse when you have to do the setup on every project daily copying and pasting from the intranet and testing if its works and maybe you forgot to run `npm install` urgh! I am  too lazy for that.
+Have  you had that feeling where when you are busy trying to beat the deadlines and you have to do a whole new project setup for the Javascript ES6 projects?
+It gets worse when you have to do the setup on every project daily copying and pasting from the intranet and testing if its works and maybe you forgot to run `npm install` urgh! We are Software engineers for code's sake and repetition should not be on our dictionary.
 
-The main goal of the script below is to setup the project in a single click. Do not repeat yourself(DRY)
+The main goal of the script below is to setup the project in a single click. Make sure that you Do not repeat yourself(DRY)
 
 ## project setup
 - The script works on all UNIX, LINUX based systems with `bash` installed. WSL included also.
