@@ -2,7 +2,7 @@
 
 # Configuration Files (place in curly braces for readability)
 babel_config="{
-  'presets': [
+  presets: [
     [
       '@babel/preset-env',
       {
