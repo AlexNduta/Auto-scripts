@@ -10,6 +10,7 @@ The main goal of the script below is to setup the project in a single click. Mak
 
 ### process 1
 `The boring way`
+
 1.clone the project to the working directory. 
 2. run `~/your_workingdir/Auto-scripts/js_eslint_setup.sh`
 
